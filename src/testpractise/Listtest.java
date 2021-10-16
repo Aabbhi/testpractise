@@ -21,7 +21,7 @@ public class Listtest {
 		System.out.print("duplicate"+primewithduplicate);
 		System.out.print("Without duplicate"+primewithoutduplicate);
 		Collections.reverse(primewithduplicate);
-		System.out.print("Reverse List from git jdgjf"+primewithduplicate);
+		System.out.print("Reverse List from git jdkskdhbhjdsbhjsbgjf"+primewithduplicate);
 		primewithduplicate.remove(0);
 		System.out.print("removing"+primewithduplicate);
 		
