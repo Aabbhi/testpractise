@@ -16,7 +16,7 @@ class TestPolymorphism{
 public static void main(String args[]){  
 Bank b;  
 b=new SBI();  
-System.out.println("SBI Rate of Interest: "+b.getRateOfInterest());  
+System.out.println("SBI Rate of Intereshgfhgffft: "+b.getRateOfInterest());  
 b=new ICICI();  
 System.out.println("ICICI Rate of Interest: "+b.getRateOfInterest());  
 
