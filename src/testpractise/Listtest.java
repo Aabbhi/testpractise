@@ -20,10 +20,10 @@ public class Listtest {
 		Set<Integer> primewithoutduplicate=new LinkedHashSet<Integer>(primewithduplicate);
 		System.out.print("duplicate"+primewithduplicate);
 		System.out.print("Without duplicate"+primewithoutduplicate);
-		Collections.reverse(primewithduplicate);
-		System.out.print("Reverse List from git "+primewithduplicate);
-		primewithduplicate.remove(0);
-		System.out.print("removing"+primewithduplicate);
+		//Collections.reverse(primewithduplicate);
+		//System.out.print("Reverse List from git "+primewithduplicate);
+		//primewithduplicate.remove(0);
+		//System.out.print("removing"+primewithduplicate);
 		
 		
 		
